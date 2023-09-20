@@ -20,6 +20,6 @@ Outcome: A fully functional clone that captures the essence of Apple's product p
 <img src="./img/1.png">
 
 <b>
-<h3><a href="">Explore the project</a></h3>
+<h3><a href="https://jcizidrosilva.github.io/apple-iphone-page-clone/">Explore the project</a></h3>
 
 
