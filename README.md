@@ -15,3 +15,5 @@ Responsive design for seamless viewing on various devices
 Carefully crafted user interface for an authentic Apple look and feel
 Integration of navigation, product details, and a footer with legal links and social media icons
 Outcome: A fully functional clone that captures the essence of Apple's product presentation while demonstrating my proficiency in web development.
+
+<br>
