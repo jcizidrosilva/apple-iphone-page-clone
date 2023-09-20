@@ -18,3 +18,8 @@ Outcome: A fully functional clone that captures the essence of Apple's product p
 
 <br>
 <img src="./img/1.png">
+
+<b>
+<h3><a href="">Explore the project</a></h3>
+
+
