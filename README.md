@@ -17,3 +17,4 @@ Integration of navigation, product details, and a footer with legal links and so
 Outcome: A fully functional clone that captures the essence of Apple's product presentation while demonstrating my proficiency in web development.
 
 <br>
+<img src="./img/1.png">
